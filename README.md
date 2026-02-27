@@ -41,10 +41,16 @@ Here are project screenshots:
 
 
 ![Screenshot 1](docs/image1.png) 
+
 ![Screenshot 2](docs/image2.png) 
+
+![Screenshot 4](docs/image3.png)
+
 ![Screenshot 4](docs/image4.png) 
-![Screenshot 5](docs/image5.png) 
-|![Screenshot 6](docs/image6.png) 
+
+![Screenshot 5](docs/image5.png)
+
+![Screenshot 6](docs/image6.png) 
 
 ---
 
